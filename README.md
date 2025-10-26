@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=User-x-dev.User-x-dev&left_color=darkgoldenrod&right_color=darkgoldenrod&left_text=visitors%20"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dom-x-dev.User-x-dev&left_color=darkgoldenrod&right_color=darkgoldenrod&left_text=visitors%20"  />
   <a href="https://discord.com/users/1349828594863702129"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg"  />
 </div>
 
@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-<a href="https://discord.com/users/1349828594863702129"><img src="https://lanyard.cnrad.dev/api/1349828594863702129?showDisplayName=true&idleMessage=Coding...&theme=dark" /></a>
+<a href="https://discord.com/users/1381308868784820354"><img src="https://lanyard.cnrad.dev/api/1381308868784820354?showDisplayName=true&idleMessage=Coding...&theme=dark" /></a>
 </div>
 
 <h2 align="left"></h2>
@@ -28,7 +28,7 @@
 <div align="left">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img
-      <a href="https://discord.com/users/1349828594863702129"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=800&pause=1000&color=b37f25&center=false&vCenter=false&width=535&lines=GitHub+Stats"
+      <a href="https://discord.com/users/1381308868784820354"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=800&pause=1000&color=b37f25&center=false&vCenter=false&width=535&lines=GitHub+Stats"
       alt="GitHub Stats"
       style="border-radius: 20px; box-shadow: 0 0 25px rgba(142, 76, 247, 0.7);"
     />
@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=User-x-dev&data=followers,repositories,stars,commits&theme=darkmode" /></a>
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Dom-x-dev&data=followers,repositories,stars,commits&theme=darkmode" /></a>
 </div>
 
 <h2 align="left"></h2>
@@ -76,7 +76,7 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/User-x-dev/User-x-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/User-x-dev/User-x-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/User-x-dev/User-x-dev/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dom-x-dev/User-x-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dom-x-dev/User-x-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dom-x-dev/Dom-x-dev/output/pacman-contribution-graph.svg">
 </picture>
